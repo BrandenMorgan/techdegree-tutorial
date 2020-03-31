@@ -1,2 +1,2 @@
-# techdegree-tutorial
+# Techdegree Tutorial 
  treehouse tutorial
